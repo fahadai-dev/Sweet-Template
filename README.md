@@ -1,16 +1,39 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🍬 Sweet Master - Premium Dessert & Sweet Shop Template
+Sweet Master is a high-end, responsive web application designed for modern sweet shops and bakeries. It showcases traditional sweets with a premium digital experience, helping local business owners reach more customers online.
 
-Currently, two official plugins are available:
+🚀 Live Demo
+[https://sweet-template.vercel.app/]
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+✨ Key Features
+Delicious Catalog: Beautifully organized sections for various types of sweets and desserts.
 
-## React Compiler
+Fully Responsive: Perfectly optimized for mobile, tablet, and desktop views.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Modern UI/UX: Clean, appetizing design with smooth transitions.
 
-## Expanding the ESLint configuration
+Business Oriented: Built-in Call-to-Action (CTA) buttons for easy ordering.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Interactive Gallery: High-quality image support to showcase products.
+
+🛠️ Built With
+Frontend: HTML5, CSS3 (Modern Flexbox/Grid)
+
+Framework: React.js
+
+Icons: FontAwesome & Google Fonts
+
+Animation: AOS (Animate On Scroll) / CSS Animations
+
+📂 How to Run Locally
+Clone the repository:
+
+Navigate to the project folder:
+
+Open index.html or run:
+
+🤝 Let's Connect
+This project is a part of my Local Business Growth initiative. I help local vendors (Sweet shops, Salons, Restaurants) digitize their businesses.
+
+Developed by: @ElavateLocal
+Project Status: Active & Maintenance Mode
